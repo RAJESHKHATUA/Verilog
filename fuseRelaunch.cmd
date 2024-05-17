@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/Admin/Desktop/OU ECE 6TH SEM/HDL_programs/or_gate_tb_isim_beh.exe" -prj "C:/Users/Admin/Desktop/OU ECE 6TH SEM/HDL_programs/or_gate_tb_beh.prj" "work.or_gate_tb" "work.glbl" 

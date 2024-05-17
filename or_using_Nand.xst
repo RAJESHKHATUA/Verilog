@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Admin/Desktop/OU ECE 6TH SEM/HDL_programs/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Admin/Desktop/OU ECE 6TH SEM/HDL_programs/xst"
+elaborate
+-ifn or_using_Nand.prj
+-ifmt mixed

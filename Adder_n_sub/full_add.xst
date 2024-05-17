@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Admin/Desktop/OU ECE 6TH SEM/HDL_programs/Adder_n_sub/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Admin/Desktop/OU ECE 6TH SEM/HDL_programs/Adder_n_sub/xst"
+elaborate
+-ifn full_add.prj
+-ifmt mixed

@@ -1,0 +1,3 @@
+verilog isim_temp "../../../Documents/programs_XIlink/Gates/netgen/synthesis/AND_gate_synthesis.v"
+verilog isim_temp "post_synt_tb.v"
+verilog isim_temp "C:/Xilinx/13.2/ISE_DS/ISE//verilog/src/glbl.v"

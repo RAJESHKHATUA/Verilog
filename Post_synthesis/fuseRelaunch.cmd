@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/Admin/Desktop/HDL_programs/Post_synthesis/tb_AND_gate_synthesis_isim_beh.exe" -prj "C:/Users/Admin/Desktop/HDL_programs/Post_synthesis/tb_AND_gate_synthesis_beh.prj" "tb_AND_gate_synthesis" "work.glbl" 

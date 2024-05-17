@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "C:/Users/Admin/Desktop/HDL_programs/Gates/and_gate.xst" -ofn "C:/Users/Admin/Desktop/HDL_programs/Gates/and_gate.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc5vlx30-ff324-2 and_gate.ngc and_gate.ngd  
+map -intstyle ise -p xc5vlx30-ff324-2 -w -logic_opt off -ol high -t 1 -register_duplication off -global_opt off -mt off -cm area -ir off -pr off -lc off -power off -o and_gate_map.ncd and_gate.ngd and_gate.pcf 
+par -w -intstyle ise -ol high -mt off and_gate_map.ncd and_gate.ncd and_gate.pcf 

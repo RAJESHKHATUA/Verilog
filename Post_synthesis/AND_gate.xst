@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Admin/Desktop/HDL_programs/Post_synthesis/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Admin/Desktop/HDL_programs/Post_synthesis/xst"
+elaborate
+-ifn AND_gate.prj
+-ifmt mixed

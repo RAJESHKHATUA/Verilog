@@ -1,0 +1,29 @@
+Command line:
+   or_using_Nand_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49663
+
+Tue May 14 15:26:10 2024
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 5135.85 Meg
+
+ Total Signals          : 18
+ Total Nets             : 17
+ Total Signal Drivers   : 10
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 12
+ Total Traceable Variables  : 20
+ Total Scalar Nets and Variables : 99
+Total Line Count : 27
+
+ Total Simulation Time: 0.078125 sec
+
+ Current Memory Usage: 5450.42 Meg
+
+Tue May 14 15:26:59 2024
+

@@ -1,0 +1,47 @@
+ISim log file
+Running: C:\Users\Admin\Desktop\HDL_programs\Post_synthesis\tb_AND_gate_synthesis_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/Admin/Desktop/HDL_programs/Post_synthesis/tb_AND_gate_synthesis_isim_beh.wdb 
+ISim O.61xd (signature 0x1cce1bb2)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Time=0, a=x, b=x, y=x
+Time=10000, a=0, b=0, y=0
+Time=20000, a=0, b=1, y=0
+Time=30000, a=1, b=0, y=0
+Time=40000, a=1, b=1, y=1
+Stopped at time : 50 ns : File "C:/Users/Admin/Desktop/HDL_programs/Post_synthesis/post_synt_tb.v" Line 30
+# run all
+# run all
+ISim O.61xd (signature 0x1cce1bb2)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Time=0, a=0, b=0, y=0
+Time=10000, a=0, b=1, y=0
+Time=20000, a=1, b=0, y=0
+Time=30000, a=1, b=1, y=1
+Stopped at time : 40 ns : File "C:/Users/Admin/Desktop/HDL_programs/Post_synthesis/post_synt_tb.v" Line 30
+ISim O.61xd (signature 0x1cce1bb2)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Time=0, a=1, b=1, y=1
+Time=10000, a=0, b=1, y=0
+Time=20000, a=1, b=0, y=0
+Time=30000, a=1, b=1, y=1
+Stopped at time : 40 ns : File "C:/Users/Admin/Desktop/HDL_programs/Post_synthesis/post_synt_tb.v" Line 30
